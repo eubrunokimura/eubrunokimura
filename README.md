@@ -27,7 +27,7 @@ No mais é isso...
  
 ## Aprendendo no Momento:
 <div style="display: inline_block"><br>
-  <img align="center" alt="css" height="48" width="48" src="https://img.icons8.com/color/50/000000/typescript.png">
+  <img align="center" alt="css" height="48" width="48" src="https://img.icons8.com/color/50/000000/csharp.png">
    <img align="center" alt="js" height="48" width="48" src="https://img.icons8.com/color/48/000000/javascript--v1.png">
    <img align="center" alt="html" height="48" width="48" src="https://img.icons8.com/color/48/000000/html-5--v1.png">
    <img align="center" alt="css" height="48" width="48" src="https://img.icons8.com/color/48/000000/css3.png">
